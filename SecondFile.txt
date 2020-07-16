@@ -1,0 +1,2 @@
+Second file of the project
+New line added after this file is staged
